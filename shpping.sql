@@ -1,4 +1,4 @@
--- CREATE DATABASE shopping_test;
+CREATE DATABASE shopping_test;
 
 USE shopping_test;
 
